@@ -5,12 +5,11 @@ Version:	0.0.1
 Release:	1
 License:	GPL
 Group:		X11/Applications
-Source0:	ftp://ftp.sourceforge.net/pub/sourceforge/libmcal/%{name}-%{version}.tar.gz
+Source0:	http://dl.sourceforge.net/libmcal/%{name}-%{version}.tar.gz
 URL:		http://mcal.chek.com/
 BuildRequires:	gtk+-devel
 BuildRequires:	libmcal-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
-
 
 %description
 This is a very early release of a GTK+ app that can display you
