@@ -11,7 +11,6 @@ BuildRequires:	gtk+-devel
 BuildRequires:	libmcal-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_prefix		/usr/X11R6
 
 %description
 This is a very early release of a GTK+ app that can display you
