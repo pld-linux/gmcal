@@ -17,7 +17,7 @@ This is a very early release of a GTK+ app that can display you
 calendar and appointment either via mstore or ICAP protocol drivers.
 
 %description -l pl
-To jest wczesna wersja aplikacji GTK+ potrafi±cej wy¶wietlaj±æ
+To jest wczesna wersja aplikacji GTK+ potrafi±cej wy¶wietlaj±c
 kalendarz i terminy spotkañ korzystaj±c z protoko³u mstore lub ICAP.
 
 %prep
