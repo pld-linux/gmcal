@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://dl.sourceforge.net/libmcal/%{name}-%{version}.tar.gz
+# Source0-md5:	9ed12226ec83512a0fe64af05eafd3d1
 URL:		http://mcal.chek.com/
 BuildRequires:	gtk+-devel
 BuildRequires:	libmcal-devel
