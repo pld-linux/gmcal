@@ -1,5 +1,5 @@
 Summary:	GTK+ libmcal powered calendar
-Summary(pl):	Oparty o libmcal kalendarz z interfejsem GTK+
+Summary(pl.UTF-8):   Oparty o libmcal kalendarz z interfejsem GTK+
 Name:		gmcal
 Version:	0.0.1
 Release:	1
@@ -16,9 +16,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This is a very early release of a GTK+ app that can display you
 calendar and appointment either via mstore or ICAP protocol drivers.
 
-%description -l pl
-To jest wczesna wersja aplikacji GTK+ potrafi±cej wy¶wietlaj±c
-kalendarz i terminy spotkañ korzystaj±c z protoko³u mstore lub ICAP.
+%description -l pl.UTF-8
+To jest wczesna wersja aplikacji GTK+ potrafiÄ…cej wyÅ›wietlajÄ…c
+kalendarz i terminy spotkaÅ„ korzystajÄ…c z protokoÅ‚u mstore lub ICAP.
 
 %prep
 %setup -q -n %{name}
