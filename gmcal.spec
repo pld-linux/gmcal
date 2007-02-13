@@ -1,5 +1,5 @@
 Summary:	GTK+ libmcal powered calendar
-Summary(pl.UTF-8):   Oparty o libmcal kalendarz z interfejsem GTK+
+Summary(pl.UTF-8):	Oparty o libmcal kalendarz z interfejsem GTK+
 Name:		gmcal
 Version:	0.0.1
 Release:	1
